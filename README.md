@@ -1,19 +1,16 @@
-﻿# [RTU](https://github.com/OS-Q/D32)
+﻿# [modbus master](https://github.com/OS-Q/D32)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
+* Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
 
-### [库描述](https://github.com/OS-Q/D32/wiki) 
+### [workspace描述](https://github.com/OS-Q/D32/wiki)
 
-[RTU](https://github.com/OS-Q/D32) 基于arduino平台构建Modbus通信节点设备
+[modbus RTU master](https://github.com/OS-Q/D32) 用于构建基于modbus主机设备的工程库
 
-### [收录资源](https://github.com/OS-Q/D32)
+### [可集成功能库](https://github.com/OS-Q)
 
-* [文档](docs/)
-* [资源](src/)
-* [示例](examples/)
+* JSON
+* AT
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/D32)
-####  2020-1-7
+### [OS-Q = Open Solutions | Open Source | Operating System ](http://www.OS-Q.com/D32)
