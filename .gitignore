@@ -1,10 +1,4 @@
-#
-# Some common rules
-#
-.*
-*.o
-#*.a
-#*.s
+
 *.ko
 *.so
 *.so.dbg
